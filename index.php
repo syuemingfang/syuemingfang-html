@@ -3,8 +3,8 @@
 
 # Cinderella
   Source Code Convert to HTML.
-  [Getting Started](http://html.cxm.tw)
-  [GitHub project](https://github.com/syuemingfang/syuemingfang-html)
+  
+  [Getting Started](http://html.cxm.tw) [GitHub project](https://github.com/syuemingfang/syuemingfang-html)
 
 ****************************************************************************************************/
 
@@ -16,7 +16,6 @@
 
 ****************************************************************************************************/
 //!
-//!****************************************************************************************************
 //!## Class
 class Cinderella{
 	public $url; //this page for search
